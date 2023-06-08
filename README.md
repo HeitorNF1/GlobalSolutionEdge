@@ -1,3 +1,12 @@
+Integrantes:
+Felipe Masera Terra 99405
+
+Heitor Farias 551539
+
+Victor Augusto 98667
+
+Vitor Futida 98697
+
 O projeto foi criado na plataforma Tinkercad com o intuito de simular um banco de alimentos na qual apresenta sensores para definir se o alimento será bem conservado no local no qual será inserido. O projeto apresenta um teclado numérico, onde com ele pode ser feito as interações com o sistema no qual se mostra bem intuitivo. As informações que devem ser passadas para o sistema é de conhecimento geral, deixando-o assim ainda mais fácil de entender como funciona o mesmo.
 
 
